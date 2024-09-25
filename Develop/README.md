@@ -1,5 +1,11 @@
 # 03 JavaScript: Employee Payroll Tracker
 
+## Links
+https://github.com/jhmitchell10/Employee-Salary-Tracker
+
+http://127.0.0.1:5501/Employee-Salary-Tracker/Develop/index.html
+(was not able to get information to respond after entering employee information)
+
 ## Your Task
 
 This week's Challenge requires you to modify starter code to create an application that enables a payroll manager to view and manage employee payroll data. This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean and polished, responsive user interface that adapts to multiple screen sizes.
